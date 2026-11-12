@@ -1,0 +1,6 @@
+{
+  "name": "48Group Bot — Freya-san Cloud",
+  "description": "Platform manajemen dan hosting WhatsApp Bot Freya-san by Pak Ujan dengan 30+ plugin modular, monitoring koneksi, dan web dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
